@@ -15,7 +15,7 @@ jobs:
 
       - name: Extract Android project at repository root
         run: |
-          unzip -q VamsiCricketWidget-upload.zip
+          unzip -oq VamsiCricketWidget-upload.zip
           rm VamsiCricketWidget-upload.zip
           rm -f .github/workflows/bootstrap-build.yml
 
