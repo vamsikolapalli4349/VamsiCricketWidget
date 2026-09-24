@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cricket Score Widget</string>
+    <string name="widget_description_1x1">Compact 1×1 cricket score tile</string>
+    <string name="widget_description_2x1">Compact 2×1 live cricket scoreboard</string>
+</resources>

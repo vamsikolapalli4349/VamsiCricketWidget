@@ -1,0 +1,11 @@
+<resources>
+    <color name="app_bg">#0D0F12</color>
+    <color name="panel">#16191F</color>
+    <color name="panel_border">#2A2E36</color>
+    <color name="text_primary">#F7F8FA</color>
+    <color name="text_secondary">#A5ABB5</color>
+    <color name="live">#FF4D5E</color>
+    <color name="accent">#8AB4F8</color>
+    <color name="button_text">#111318</color>
+    <color name="icon_bg">#12161D</color>
+</resources>
